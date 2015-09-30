@@ -1,0 +1,9 @@
+C:\Users\Евгений\Desktop\HW\HW\bin\Debug\HW.exe.config
+C:\Users\Евгений\Desktop\HW\HW\bin\Debug\HW.XML
+C:\Users\Евгений\Desktop\HW\HW\bin\Debug\HW.exe
+C:\Users\Евгений\Desktop\HW\HW\bin\Debug\HW.pdb
+C:\Users\Евгений\Desktop\HW\HW\bin\Debug\FSharp.Core.dll
+C:\Users\Евгений\Desktop\HW\HW\bin\Debug\FSharp.Core.xml
+C:\Users\Евгений\Desktop\HW\HW\obj\Debug\HW.fsprojResolveAssemblyReference.cache
+C:\Users\Евгений\Desktop\HW\HW\obj\Debug\HW.exe
+C:\Users\Евгений\Desktop\HW\HW\obj\Debug\HW.pdb

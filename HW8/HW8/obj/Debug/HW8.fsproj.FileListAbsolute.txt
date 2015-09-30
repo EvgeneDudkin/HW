@@ -1,0 +1,9 @@
+C:\Users\Евгений\Desktop\HW\HW8\HW8\bin\Debug\HW8.exe.config
+C:\Users\Евгений\Desktop\HW\HW8\HW8\bin\Debug\HW8.XML
+C:\Users\Евгений\Desktop\HW\HW8\HW8\bin\Debug\HW8.exe
+C:\Users\Евгений\Desktop\HW\HW8\HW8\bin\Debug\HW8.pdb
+C:\Users\Евгений\Desktop\HW\HW8\HW8\bin\Debug\FSharp.Core.dll
+C:\Users\Евгений\Desktop\HW\HW8\HW8\bin\Debug\FSharp.Core.xml
+C:\Users\Евгений\Desktop\HW\HW8\HW8\obj\Debug\HW8.fsprojResolveAssemblyReference.cache
+C:\Users\Евгений\Desktop\HW\HW8\HW8\obj\Debug\HW8.exe
+C:\Users\Евгений\Desktop\HW\HW8\HW8\obj\Debug\HW8.pdb
